@@ -1,6 +1,6 @@
 # Marina Mattos
 
-Olá, me chamo Marina, tenho 27 anos, sou formada em administração pela USP e trabalho com análise de dados, mais especificamente na área de People Analytics. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
+Olá, sou a Marina, tenho 27 anos, sou formada em administração pela USP e trabalho com análise de dados, mais especificamente na área de People Analytics. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
 
 
 ## Conecte-se comigo
