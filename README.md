@@ -14,7 +14,6 @@ Olá, sou a Marina, tenho 27 anos, sou formada em administração pela USP e tra
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI&logoColor=#FFFF00)
 
 # Languages
