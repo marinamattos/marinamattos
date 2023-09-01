@@ -12,9 +12,12 @@ Olá, sou a Marina, tenho 27 anos, sou formada em administração pela USP e tra
 
 ## Habilidades
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI&logoColor=#FFFF00)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 
 # Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MARINAMATTOS&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
