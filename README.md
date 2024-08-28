@@ -1,6 +1,6 @@
 # Marina Mattos
 
-Olá, sou a Marina, tenho 28 anos, sou formada em administração pela USP e trabalho há 4 anos com análise de dados, como Business Intelligence ou Data Analyst. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades técnicas.
+Olá, sou a Marina, tenho 28 anos, sou formada em administração pela USP e trabalho há 5 anos com análise de dados, como Business Intelligence ou Data Analyst. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades técnicas.
 
 
 ## Conecte-se comigo
@@ -17,6 +17,12 @@ Olá, sou a Marina, tenho 28 anos, sou formada em administração pela USP e tra
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge&logo=duckdb&logoColor=white)](https://duckdb.org/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white)](https://aws.amazon.com/redshift/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 
 
 # Languages
